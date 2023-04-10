@@ -7,7 +7,7 @@ Hello, ny name is Kian, and I am currently a second year mathematics-computer sc
 - Python
 - C++
 - C
-- MatLab
+- [MatLab](index.md#MatLab)
 
 I have worked with a little bit of JavaScript in the past, mainly for personal projects. One JavaScript framework that I have some experience with is React (more specifically ReactNative). My personal GitHub can be found [HERE](https://github.com/kianchou), although most of my projects are private since I don't like sharing bad code. Also go check out the [README](README.md).
 
@@ -64,7 +64,7 @@ Here is a list of the Markdown elements my page includes
 - [X] Quoting text
 - [X] Quoting code
 - [X] External Links
-- [] Section links
+- [X] Section links
 - [X] Relative links
 - [X] Ordered and Unordered Lists
 - [X] Task lists
